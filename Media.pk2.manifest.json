@@ -1,0 +1,75 @@
+{
+  "file": "Media.pk2",
+  "original_size": 1375485952,
+  "part_size": 83886080,
+  "parts": [
+    {
+      "filename": "Media.pk2.part01",
+      "hash": "3b5109dab50d28d7343229fb5cc2411b"
+    },
+    {
+      "filename": "Media.pk2.part02",
+      "hash": "5f1c2daddc7ca3dca16c30ad02ab0df5"
+    },
+    {
+      "filename": "Media.pk2.part03",
+      "hash": "6c62b5ace7bcd49d2304784c86f5d532"
+    },
+    {
+      "filename": "Media.pk2.part04",
+      "hash": "713c4bdb420021f385a3d71806e6eaa0"
+    },
+    {
+      "filename": "Media.pk2.part05",
+      "hash": "fc91b85bf1b701a3237e8bb339a7b561"
+    },
+    {
+      "filename": "Media.pk2.part06",
+      "hash": "dcfc5fbfbe6f7b275d3a9e0852a26fb0"
+    },
+    {
+      "filename": "Media.pk2.part07",
+      "hash": "c6d21492547b21e6d4260e76993661eb"
+    },
+    {
+      "filename": "Media.pk2.part08",
+      "hash": "1a4b7c78f047adca2e2c93187dbea21d"
+    },
+    {
+      "filename": "Media.pk2.part09",
+      "hash": "fcdef39394245f87b2e1a94bb6d3fe50"
+    },
+    {
+      "filename": "Media.pk2.part10",
+      "hash": "9c1588fd6af17c6338f1fef02968cfca"
+    },
+    {
+      "filename": "Media.pk2.part11",
+      "hash": "fb17d2fc067c4e4b81942121876271e1"
+    },
+    {
+      "filename": "Media.pk2.part12",
+      "hash": "3c299e5fad947580896921ac78e948f4"
+    },
+    {
+      "filename": "Media.pk2.part13",
+      "hash": "d22478b4c81bc685edb34613d144bf10"
+    },
+    {
+      "filename": "Media.pk2.part14",
+      "hash": "861bd9bbebb51a775d9a28eb3c07a775"
+    },
+    {
+      "filename": "Media.pk2.part15",
+      "hash": "89f89e81b158931e19af9871869bee4f"
+    },
+    {
+      "filename": "Media.pk2.part16",
+      "hash": "eb6e4ec762edaeb5f6927a92f329815d"
+    },
+    {
+      "filename": "Media.pk2.part17",
+      "hash": "05b18694abb94a6835fae32fd7d1aef0"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "file": "Map.pk2",
+  "original_size": 1300291584,
+  "part_size": 83886080,
+  "parts": [
+    {
+      "filename": "Map.pk2.part01",
+      "hash": "ec8c6772c2b1f12c33391e5dd4561ada"
+    },
+    {
+      "filename": "Map.pk2.part02",
+      "hash": "6a516b7d66ce32158126fb11b4164993"
+    },
+    {
+      "filename": "Map.pk2.part03",
+      "hash": "38c58de24125e0d0a55338bdc11f71ed"
+    },
+    {
+      "filename": "Map.pk2.part04",
+      "hash": "2a2f537c0a704a60e830bf9dd292c539"
+    },
+    {
+      "filename": "Map.pk2.part05",
+      "hash": "0bd9336193d84c08ca06e3a725bdc122"
+    },
+    {
+      "filename": "Map.pk2.part06",
+      "hash": "591c0ae27bf6819c39ef14d85f169373"
+    },
+    {
+      "filename": "Map.pk2.part07",
+      "hash": "28ba4602320ef5bf01d3e056ea817639"
+    },
+    {
+      "filename": "Map.pk2.part08",
+      "hash": "8ab243813afb43c3fa707a19cf9866ec"
+    },
+    {
+      "filename": "Map.pk2.part09",
+      "hash": "e8111b09b5ac5c4702a872c32420e701"
+    },
+    {
+      "filename": "Map.pk2.part10",
+      "hash": "8bf6f5a1167c41d6e03c51a2e46727ef"
+    },
+    {
+      "filename": "Map.pk2.part11",
+      "hash": "feb13e802c57c85bcf8fa0aadd08cac2"
+    },
+    {
+      "filename": "Map.pk2.part12",
+      "hash": "2b167472e8812b502b3cd9a1e76db804"
+    },
+    {
+      "filename": "Map.pk2.part13",
+      "hash": "ebcfe787edd30cd1dd57394e0e3be59c"
+    },
+    {
+      "filename": "Map.pk2.part14",
+      "hash": "88b61930cb88181c03387d14d0eb02be"
+    },
+    {
+      "filename": "Map.pk2.part15",
+      "hash": "87a499a3eb42fa0210619626ee5ed22c"
+    },
+    {
+      "filename": "Map.pk2.part16",
+      "hash": "117f2f2c46c3641226d62c052041a248"
+    }
+  ]
+}

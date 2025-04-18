@@ -1,0 +1,11 @@
+{
+  "file": "d3d9.dll",
+  "original_size": 3541720,
+  "part_size": 83886080,
+  "parts": [
+    {
+      "filename": "d3d9.dll",
+      "hash": "9d721cac238db7d9b9d58db0a14212cf"
+    }
+  ]
+}

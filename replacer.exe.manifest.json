@@ -1,0 +1,11 @@
+{
+  "file": "replacer.exe",
+  "original_size": 327680,
+  "part_size": 83886080,
+  "parts": [
+    {
+      "filename": "replacer.exe",
+      "hash": "a8f45107e2405f8d64716b603aa2e323"
+    }
+  ]
+}

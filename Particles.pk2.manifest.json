@@ -1,0 +1,23 @@
+{
+  "file": "Particles.pk2",
+  "original_size": 321798144,
+  "part_size": 83886080,
+  "parts": [
+    {
+      "filename": "Particles.pk2.part01",
+      "hash": "9b6ec4fb65f3c299b1f1eaa71c944f44"
+    },
+    {
+      "filename": "Particles.pk2.part02",
+      "hash": "ffc274ad26363b1a853dfe00088421a0"
+    },
+    {
+      "filename": "Particles.pk2.part03",
+      "hash": "a1f07116aea3fbbf060654d8b742984c"
+    },
+    {
+      "filename": "Particles.pk2.part04",
+      "hash": "edd7b25c258cc9378d58c047380c759a"
+    }
+  ]
+}

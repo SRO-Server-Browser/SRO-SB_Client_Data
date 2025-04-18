@@ -1,0 +1,83 @@
+21:47:01:020 [21092] | INFO  | Initializing crosire's ReShade version '6.3.3.1923' (32-bit) loaded from 'D:\SROServer\SROSB\SB\Client\d3d9.dll' into 'D:\SROServer\SROSB\SB\Client\sro_client.exe' (0x5190B0E5) ...
+21:47:01:021 [21092] | INFO  | Registering hooks for 'user32.dll' ...
+21:47:01:021 [21092] | INFO  | > Libraries loaded.
+21:47:01:021 [21092] | INFO  | > Found 14 match(es). Installing ...
+21:47:01:048 [21092] | INFO  | Registering hooks for 'C:\WINDOWS\system32\dinput.dll' ...
+21:47:01:049 [21092] | INFO  | > Delayed.
+21:47:01:049 [21092] | INFO  | Registering hooks for 'ws2_32.dll' ...
+21:47:01:049 [21092] | INFO  | > Libraries loaded.
+21:47:01:049 [21092] | INFO  | > Found 8 match(es). Installing ...
+21:47:01:074 [21092] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d2d1.dll' ...
+21:47:01:074 [21092] | INFO  | > Delayed.
+21:47:01:074 [21092] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d3d9.dll' ...
+21:47:01:074 [21092] | INFO  | > Delayed until first call to an exported function.
+21:47:01:075 [21092] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d3d10.dll' ...
+21:47:01:075 [21092] | INFO  | > Delayed.
+21:47:01:075 [21092] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d3d10_1.dll' ...
+21:47:01:075 [21092] | INFO  | > Delayed.
+21:47:01:075 [21092] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d3d11.dll' ...
+21:47:01:075 [21092] | INFO  | > Delayed.
+21:47:01:075 [21092] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d3d12.dll' ...
+21:47:01:076 [21092] | INFO  | > Delayed.
+21:47:01:076 [21092] | INFO  | Registering hooks for 'C:\WINDOWS\system32\dxgi.dll' ...
+21:47:01:076 [21092] | INFO  | > Libraries loaded.
+21:47:01:076 [21092] | INFO  | > Found 5 match(es). Installing ...
+21:47:01:102 [21092] | INFO  | Registering hooks for 'vrclient.dll' ...
+21:47:01:102 [21092] | INFO  | > Delayed.
+21:47:01:102 [21092] | INFO  | Initialized.
+21:47:04:399 [21092] | INFO  | Redirecting RegisterClassExA(lpWndClassEx = 0019FE80 { "CLIENT", style = 0xb }) ...
+21:47:04:401 [21092] | INFO  | > Adding 'CS_OWNDC' window class style flag to "CLIENT".
+21:47:04:561 [21092] | INFO  | Installing export hooks for 'C:\WINDOWS\system32\d3d9.dll' ...
+21:47:04:561 [21092] | INFO  | > Found 11 match(es). Installing ...
+21:47:04:561 [21092] | INFO  | Redirecting Direct3DCreate9(SDKVersion = 0x1f) ...
+21:47:04:853 [21092] | INFO  | Redirecting IDirect3D9::CreateDevice(this = 01424F80, Adapter = 0, DeviceType = 1, hFocusWindow = 000F1A78, BehaviorFlags = 0x84, pPresentationParameters = 074BC67C, ppReturnedDeviceInterface = 074BC6C4) ...
+21:47:04:853 [21092] | INFO  | Searching for add-ons (*.addon, *.addon32) in 'D:\SROServer\SROSB\SB\Client' ...
+21:47:04:853 [21092] | INFO  | Dumping presentation parameters:
+21:47:04:854 [21092] | INFO  |   +-----------------------------------------+-----------------------------------------+
+21:47:04:854 [21092] | INFO  |   | Parameter                               | Value                                   |
+21:47:04:854 [21092] | INFO  |   +-----------------------------------------+-----------------------------------------+
+21:47:04:854 [21092] | INFO  |   | BackBufferWidth                         | 1024                                    |
+21:47:04:854 [21092] | INFO  |   | BackBufferHeight                        | 768                                     |
+21:47:04:854 [21092] | INFO  |   | BackBufferFormat                        | D3DFMT_X8R8G8B8                         |
+21:47:04:854 [21092] | INFO  |   | BackBufferCount                         | 1                                       |
+21:47:04:854 [21092] | INFO  |   | MultiSampleType                         | 0                                       |
+21:47:04:854 [21092] | INFO  |   | MultiSampleQuality                      | 0                                       |
+21:47:04:854 [21092] | INFO  |   | SwapEffect                              | 1                                       |
+21:47:04:854 [21092] | INFO  |   | DeviceWindow                            | 000F1A78                                |
+21:47:04:854 [21092] | INFO  |   | Windowed                                | TRUE                                    |
+21:47:04:854 [21092] | INFO  |   | EnableAutoDepthStencil                  | TRUE                                    |
+21:47:04:854 [21092] | INFO  |   | AutoDepthStencilFormat                  | 77                                      |
+21:47:04:855 [21092] | INFO  |   | Flags                                   | 0                                       |
+21:47:04:855 [21092] | INFO  |   | FullScreen_RefreshRateInHz              | 0                                       |
+21:47:04:855 [21092] | INFO  |   | PresentationInterval                    | 0x80000000                              |
+21:47:04:855 [21092] | INFO  |   +-----------------------------------------+-----------------------------------------+
+21:47:05:119 [21092] | INFO  | Running on NVIDIA GeForce RTX 3080 Laptop GPU Driver 566.3.
+21:47:05:385 [21092] | INFO  | Recreated runtime environment on runtime 0F048EE0 ('D:\SROServer\SROSB\SB\Client\ReShade.ini').
+21:47:05:545 [24836] | INFO  | Successfully compiled 'D:\SROServer\SROSB\SB\Client\reshade-shaders\Shaders\Silvarya.fx' in 0.005000 s.
+21:47:11:911 [21092] | INFO  | Redirecting IDirect3DDevice9::Reset(this = 0F040B30, pPresentationParameters = 074BC67C) ...
+21:47:11:912 [21092] | INFO  | Dumping presentation parameters:
+21:47:11:912 [21092] | INFO  |   +-----------------------------------------+-----------------------------------------+
+21:47:11:912 [21092] | INFO  |   | Parameter                               | Value                                   |
+21:47:11:912 [21092] | INFO  |   +-----------------------------------------+-----------------------------------------+
+21:47:11:912 [21092] | INFO  |   | BackBufferWidth                         | 1920                                    |
+21:47:11:912 [21092] | INFO  |   | BackBufferHeight                        | 1080                                    |
+21:47:11:912 [21092] | INFO  |   | BackBufferFormat                        | D3DFMT_X8R8G8B8                         |
+21:47:11:912 [21092] | INFO  |   | BackBufferCount                         | 1                                       |
+21:47:11:912 [21092] | INFO  |   | MultiSampleType                         | 0                                       |
+21:47:11:912 [21092] | INFO  |   | MultiSampleQuality                      | 0                                       |
+21:47:11:912 [21092] | INFO  |   | SwapEffect                              | 1                                       |
+21:47:11:912 [21092] | INFO  |   | DeviceWindow                            | 000F1A78                                |
+21:47:11:912 [21092] | INFO  |   | Windowed                                | TRUE                                    |
+21:47:11:912 [21092] | INFO  |   | EnableAutoDepthStencil                  | TRUE                                    |
+21:47:11:913 [21092] | INFO  |   | AutoDepthStencilFormat                  | 77                                      |
+21:47:11:913 [21092] | INFO  |   | Flags                                   | 0                                       |
+21:47:11:913 [21092] | INFO  |   | FullScreen_RefreshRateInHz              | 0                                       |
+21:47:11:913 [21092] | INFO  |   | PresentationInterval                    | 0x80000000                              |
+21:47:11:913 [21092] | INFO  |   +-----------------------------------------+-----------------------------------------+
+21:47:11:917 [21092] | INFO  | Destroyed runtime environment on runtime 0F048EE0 ('D:\SROServer\SROSB\SB\Client\ReShade.ini').
+21:47:11:924 [21092] | INFO  | Recreated runtime environment on runtime 0F048EE0 ('D:\SROServer\SROSB\SB\Client\ReShade.ini').
+21:47:12:006 [16192] | INFO  | Successfully compiled 'D:\SROServer\SROSB\SB\Client\reshade-shaders\Shaders\Silvarya.fx' in 0.003000 s.
+21:47:17:748 [21092] | WARN  | Reference count for IDirect3DDevice9 object 0F040B30 (08025E80) is inconsistent! Leaking resources ...
+21:47:17:952 [21092] | INFO  | Exiting ...
+21:47:17:952 [21092] | INFO  | Uninstalling 39 hook(s) ...
+21:47:18:990 [21092] | INFO  | Finished exiting.

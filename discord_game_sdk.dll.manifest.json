@@ -1,0 +1,11 @@
+{
+  "file": "discord_game_sdk.dll",
+  "original_size": 3154744,
+  "part_size": 83886080,
+  "parts": [
+    {
+      "filename": "discord_game_sdk.dll",
+      "hash": "955af9be4a97316d73afae1e7365e97e"
+    }
+  ]
+}
